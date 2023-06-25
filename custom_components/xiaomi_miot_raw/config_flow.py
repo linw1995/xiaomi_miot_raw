@@ -2,7 +2,6 @@ import json
 import re
 
 import asyncio
-from types import coroutine
 from typing import OrderedDict
 import async_timeout
 import homeassistant.helpers.config_validation as cv
